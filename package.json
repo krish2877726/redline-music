@@ -1,0 +1,12 @@
+{
+  "name": "redline",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Redline Music Web App supercharged with Snitify UX architecture and YouTube Music stream extraction",
+  "scripts": {
+    "start": "cd redline-backend && npm start",
+    "dev:backend": "cd redline-backend && npm run dev",
+    "dev:frontend": "cd redline-frontend && npm run dev",
+    "build:frontend": "cd redline-frontend && npm run build"
+  }
+}
